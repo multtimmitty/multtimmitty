@@ -8,7 +8,6 @@ Stat
 -->
 
 # Used Languages
-
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=multtimy&theme=nord&layout=compact&hide=HTML)
 
 
