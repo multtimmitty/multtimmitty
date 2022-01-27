@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Hello, I'm Multtimy</h4>
+<h1>Hello, I'm Multtimy</h1>
 
-<h3>this is my repository that contain varius proyects done in shell Linux and Python</h3>
+<h5>this is my repository that contain varius proyects done in shell Linux and Python</h5>
