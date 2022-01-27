@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 <h5>this is my repository that contain varius proyects done in shell Linux and Python</h5>
 
-# lengauages
-[![Lenguages used] (https://github-readme-stats.vercel.app/api?username=multtimy&show_icons=true&theme=dracula)](https://github.com/multtimy/github-readme-stats)
+<!-- # lengauages
+[![Lenguages used](https://github-readme-stats.vercel.app/api?username=multtimy&show_icons=true&theme=dracula)](https://github.com/multtimy/github-readme-stats) -->
+
+[![Lenguages used](https://github-readme-stats.vercel.app/api?username=multtimy)](https://github.com/multtimy/github-readme-stats)
