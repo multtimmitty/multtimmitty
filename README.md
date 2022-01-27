@@ -6,7 +6,9 @@
 Stat
 [![Multtimy](https://github-readme-stats.vercel.app/api?username=multtimy&show_icon=true&theme=aura)](https://github.com/multtimy/github-readme-stats)
 -->
-#Used Languages
+
+# Used Languages
+
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=multtimy&theme=nord&layout=compact&hide=HTML)
 
 
