@@ -1,5 +1,5 @@
 [![banner.png](https://i.postimg.cc/28sLRcKY/banner.png)](https://postimg.cc/2VxSnwY9)
-<h3>Hello, I'm Multtimy</h3>
+<h3>Hello, I'm Multtimy/Multtimmitty</h3>
 <h6>this is my repository that contain varius proyects.</h6>
 <br>
 
